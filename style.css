@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f5f0ff;
+    margin: 0;
+}
+
+/* HEADER */
+header {
+    background-color: #6a0dad;
+    color: white;
+    padding: 20px;
+}
+
+/* NAVBAR */
+nav {
+    background-color: #a64dff;
+    padding: 10px;
+}
+
+nav a {
+    margin: 15px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* VİDEO KUTULARI */
+div {
+    border: 2px solid #a64dff;
+    border-radius: 10px;
+    margin: 20px auto;
+    padding: 15px;
+    width: 60%;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* BAŞLIK */
+h2 {
+    color: #6a0dad;
+}
+
+/* FOOTER */
+footer {
+    background-color: #6a0dad;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
